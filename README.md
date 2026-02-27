@@ -26,6 +26,3 @@
 # Original VoiceCraft License
 The codebase is under CC BY-NC-SA 4.0 (LICENSE-CODE), and the model weights are under Coqui Public Model License 1.0.0 (LICENSE-MODEL). Note that we use some of the code from other repository that are under different licenses: ./models/codebooks_patterns.py is under MIT license; ./models/modules, ./steps/optim.py, data/tokenizer.py are under Apache License, Version 2.0; the phonemizer we used is under GNU 3.0 License.
 
-Please refer to the below for latest:
-- [LICENSE-CODE](https://github.com/jasonppy/VoiceCraft/blob/master/LICENSE-CODE)
-- [LICENSE-MODEL](https://github.com/jasonppy/VoiceCraft/blob/master/LICENSE-MODEL)
