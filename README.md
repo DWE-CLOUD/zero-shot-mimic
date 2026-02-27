@@ -1,19 +1,3 @@
-# Disclaimer from the Voicecraft Github repo
-Any organization or individual is prohibited from using any technology mentioned in this paper to generate or edit someone's speech without his/her consent, including but not limited to government leaders, political figures, and celebrities. If you do not comply with this item, you could be in violation of copyright laws.
-
-# Description
-A dockerized version of VoiceCraft [CUDA only] offering a gradio interface [voicecraft github](https://github.com/jasonppy/VoiceCraft/) and inspired by this [webio](https://github.com/Pathos14489/VoiceCraft/blob/master/webio.py) implementation.
-
-# Screenshot
-<img width="1313" alt="image" src="https://github.com/pselvana/VoiceCrafter/assets/1414489/831bcf0e-4682-454c-8f8c-18462f4b328a">
-
-
-# Installation: Create Docker image (5 minutes+)
-```sh
-# git clone https://github.com/pselvana/VoiceCrafter
-# cd VoiceCrafter
-# docker build -t voicecrafter .
-```
 
 # Instructions
 - Run the below to start your instance -- you must run the Installation steps above first
